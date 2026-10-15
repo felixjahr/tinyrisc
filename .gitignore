@@ -1,0 +1,27 @@
+# Clion
+.idea/
+*.iml
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+assembler.dSYM/
+
+# Object Files
+*.o
+
+# Executables
+project
+assembler
+
+# Binary files
+*.out
+
+# Trace files
+*.vcd
